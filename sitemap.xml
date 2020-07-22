@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cfop.info/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cfop.info/</loc>
+</url>
+<url>
+<loc>https://cfop.info/404/</loc>
+<lastmod>2020-07-18T13:29:51-03:00</lastmod>
+<image:image>
+<image:loc>https://cfop.info/media\posts\3/emoji-icon-15-512.png</image:loc>
+<image:title><![CDATA[erro 404]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cfop.info/cfop-1101/</loc>
+<lastmod>2020-07-19T12:54:59-03:00</lastmod>
+</url>
+<url>
+<loc>https://cfop.info/contato/</loc>
+<lastmod>2020-07-22T10:59:48-03:00</lastmod>
+</url>
+<url>
+<loc>https://cfop.info/csosn/</loc>
+<lastmod>2020-07-19T01:01:04-03:00</lastmod>
+</url>
+<url>
+<loc>https://cfop.info/cst-ipi/</loc>
+<lastmod>2020-07-19T12:48:41-03:00</lastmod>
+</url>
+<url>
+<loc>https://cfop.info/cst-piscofins/</loc>
+<lastmod>2020-07-19T01:04:13-03:00</lastmod>
+</url>
+<url>
+<loc>https://cfop.info/cst-piscofins-para-empresas-mei-e-do-simples-nacional/</loc>
+<lastmod>2020-07-18T23:11:35-03:00</lastmod>
+</url>
+<url>
+<loc>https://cfop.info/o-que-e-o-cfop/</loc>
+<lastmod>2020-07-19T12:55:21-03:00</lastmod>
+</url>
+</urlset>
